@@ -1,0 +1,63 @@
+header{
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.div{
+  position: relative;
+}
+
+body{
+  background-color: #87CEFA;
+  font-family: Noto Sans;
+  color: white;
+  text-align: center;
+  padding: 0 20px 0 20px;
+  font-size: 100%;
+  line-height: 1.3em;
+  vertical-align: baseline;
+}
+
+.start{
+  margin: 0 0 20px 0;
+}
+
+.image{
+  margin: 0 0 20px 0;
+  padding: 10px;
+}
+
+.intro{
+  max-width: 950px;
+  background-color: #00BFFF;
+  margin: 0 auto 0 auto;
+  color: white;
+  padding: 23px 20px 20px 20px;
+  font-size: 1.4em;
+  line-height: 1.2em;
+  border-radius: 15px;
+}
+
+.excuse{
+  max-width: 700px;
+  margin: 0 auto 0 auto;
+  background-color: #00BFFF;
+  color: #191970;
+  padding: 23px 20px 20px 20px;
+  font-size: 1.4em;
+  line-height: 1.2em;
+  border-radius: 15px;
+}
+
+.middle{
+  margin: 0 0 20px 0;
+}
+
+.footer{
+  color: black;
+  padding-top: 70px;
+  padding-bottom: 10px;
+  margin: 0 0 20px 0;
+}
